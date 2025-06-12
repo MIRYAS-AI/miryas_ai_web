@@ -1,1 +1,9 @@
 streamlit
+google-generativeai
+google-cloud-texttospeech
+google-cloud-speech
+google-cloud-vision
+requests
+python-dotenv
+
+
